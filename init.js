@@ -10,6 +10,5 @@ document.addEventListener("DOMContentLoaded", function() {
   window.addEventListener("resize", doResize);
   doResize();
 
-  // Zazenemo glavni del programa (ki ga sprogramirate vi)
   main();
 });

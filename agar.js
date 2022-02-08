@@ -1,6 +1,6 @@
 var canvas, context;
 var mouseX = 300, mouseY = 300;
-var x = Math.random()*25000, y = Math.random()*25000;
+var x = Math.random()*50000, y = Math.random()*50000;
 var speed = 10;
 var size =50;
 var barve = ["red", "blue", "yellow", "green", "orange", "purple"];
